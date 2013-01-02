@@ -1,0 +1,1 @@
+This project is a fork of Keith Moon's jQuery plugin for working with SVG.
